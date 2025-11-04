@@ -68,11 +68,10 @@ PetGame/
 
 
 
-## ERD
+## Class Diagram
 
 
-<img width="1033" height="745" alt="image" src="https://github.com/user-attachments/assets/1e7ea03e-9b7c-4041-9b0c-f1814a50fb3d" />
-
+<img width="1014" height="792" alt="Image" src="https://github.com/user-attachments/assets/5079d547-2826-4661-8e54-7505a409884d" />
 
 
 
