@@ -2,7 +2,7 @@
 이 게임은 Java를 기반으로 나의 작은 친구, 디지털 펫을 내 손으로 직접 만들어보는 프로젝트입니다.
 
 ### 프로젝트 제작자 
-- 오인준 | @01nJun
+- **오인준** | **@01nJun**
 
 ## 프로젝트 계획 의도
 - 이 프로젝트는  나의 작은 친구, 디지털 펫을 내 손으로 직접 만들어보는 프로젝트입니다. 햄스터의 귀여운 몸매와 오리의 뒤뚱거리는 걸음걸이를 보며 키우고 싶었던 두 동물, 오리와 햄스터를 직접 돌볼 수 있는 디지털 펫 게임을 만드는 것을 목표로 했습니다.
@@ -83,9 +83,6 @@ PetGame/
 
 
 
-
-
-
 - 처음 켰을 때 아기오리와 아기햄스터 중 선택
 
 ![펫 선택 화면](https://github.com/user-attachments/assets/c5b4dc11-481b-4ec0-ab23-2cebc450016f) <br>
@@ -94,21 +91,18 @@ PetGame/
 
 ![이름 입력 화면](https://github.com/user-attachments/assets/575b4b88-2213-4381-8f07-95a6e36b1632) <br>
 
-- 펫이 5레벨이 됐을 때 <br>
-![진화 화면](https://github.com/user-attachments/assets/ea827f3d-31e8-4859-8496-615abfc9fd3b) <br>
-
-- 펫의 피로도가 100이 되었을 때
- <img width="578" height="481" alt="Image" src="https://github.com/user-attachments/assets/048b7e4d-6f0a-4ea5-a722-bd491be1277a" />
-
-- 펫의 배고픔이 100이 되었을 때
- <img width="586" height="490" alt="Image" src="https://github.com/user-attachments/assets/ea2220e3-459d-4131-9adf-f8db3d69cb02" />
 
 
-## 🎮 게임 시스템 주요 기능 구조
+
+## 게임 시스템 주요 기능 구조
 
 이 프로젝트의 핵심이 되는 펫의 행동과 그에 따른 능력치 변화 구조를 정리했습니다. 
 
 <br>
+
+### 기본 기능
+<img width="579" height="485" alt="Image" src="https://github.com/user-attachments/assets/5c80650e-161d-42ad-811c-5735383b74e8" />
+
 
 ### 밥주기
 | 내용 | 행복도 | 배고픔 | 경험치 | 피로도 |
@@ -146,6 +140,17 @@ PetGame/
 
 <br>
 
+
+- 펫이 5레벨이 됐을 때 <br>
+![진화 화면](https://github.com/user-attachments/assets/ea827f3d-31e8-4859-8496-615abfc9fd3b) <br>
+
+- 펫의 피로도가 100이 되었을 때
+ <img width="578" height="481" alt="Image" src="https://github.com/user-attachments/assets/048b7e4d-6f0a-4ea5-a722-bd491be1277a" />
+
+- 펫의 배고픔이 100이 되었을 때
+ <img width="586" height="490" alt="Image" src="https://github.com/user-attachments/assets/ea2220e3-459d-4131-9adf-f8db3d69cb02" />
+
+
 ## 좋았던 점과 아쉬웠던 점
 
 #### 좋았던 점
@@ -154,7 +159,7 @@ PetGame/
 
 #### 아쉬웠던 점
 - 내가 아쉬웠던 건 진화가 5렙진화까지밖에 없다. 아기오리 -> 오리 이렇게 진화를 하게 해놨는데 그 다음 진화가 마땅히 생각도 안나고 사진으로 쓸 것도 없어보여서 하지 못했는데 진화 종류가 다양했다면 재밌었을 것 같다.
-- 뭔가 만들고 해보면서 게임의 요소가 부족하다고 생각했다 펫의 진화도 부족했고 게임의 컨텐츠 ? 재미 ?가 없다고 생각이 되어서 생각 해낸 게 "추억 앨범"이라는 수집 요소 인데 이건 향후 계획에 넣었다.
+- 뭔가 만들고 해보면서 게임의 요소가 부족하다고 생각했다 펫의 진화도 부족했고 게임의 컨텐츠 ? 재미 ?가 없다고 생각이 되어서 생각 해낸 게 "추억 앨범"이라는 수집 요소인데 이건 향후 계획에 넣었다.
 <br>
 
 ## 향후 계획
